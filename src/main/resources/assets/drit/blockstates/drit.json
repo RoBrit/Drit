@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "drit:block/drit"
+      },
+      {
+        "model": "drit:block/drit",
+        "y": 90
+      },
+      {
+        "model": "drit:block/drit",
+        "y": 180
+      },
+      {
+        "model": "drit:block/drit",
+        "y": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="All rights reserved"
+[[mods]]
+modId="drit"
+version="${file.jarVersion}"
+displayName="Drit"
+logoFile="logo.png"
+authors="RoBrit"
+description="Allows for murder, but in a good way"
